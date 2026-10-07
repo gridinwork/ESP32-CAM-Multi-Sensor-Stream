@@ -1,0 +1,22 @@
+# Arduino / IDE
+*.bin
+*.elf
+*.map
+*.hex
+*.eep
+*.o
+*.d
+build/
+.vscode/
+.idea/
+
+# Python receiver
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+frames/
+
+# OS
+.DS_Store
+Thumbs.db
